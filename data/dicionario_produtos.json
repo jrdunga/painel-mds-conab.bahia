@@ -1,0 +1,1994 @@
+[
+    {
+        "Produto_Original": "ABACATE>  (Classificação sem características)",
+        "Produto_Global": "Abacate"
+    },
+    {
+        "Produto_Original": "ABACATE>  ORGÂNICO(A)",
+        "Produto_Global": "Abacate"
+    },
+    {
+        "Produto_Original": "ABACATE>  QUINTAL",
+        "Produto_Global": "Abacate Quintal"
+    },
+    {
+        "Produto_Original": "ABACAXI>  (Classificação sem características)",
+        "Produto_Global": "Abacaxi"
+    },
+    {
+        "Produto_Original": "ABACAXI>  HAVAÍ",
+        "Produto_Global": "Abacaxi Havaí"
+    },
+    {
+        "Produto_Original": "ABACAXI>  PÉROLA",
+        "Produto_Global": "Abacaxi Pérola"
+    },
+    {
+        "Produto_Original": "ABÓBORA>  (Classificação sem características)",
+        "Produto_Global": "Abóbora Comum"
+    },
+    {
+        "Produto_Original": "ABÓBORA>  CABOCLA",
+        "Produto_Global": "Abóbora Cabocla"
+    },
+    {
+        "Produto_Original": "ABÓBORA>  CABOTIÃ",
+        "Produto_Global": "Abóbora Cabotiã"
+    },
+    {
+        "Produto_Original": "ABÓBORA>  CAIPIRA",
+        "Produto_Global": "Abóbora Comum"
+    },
+    {
+        "Produto_Original": "ABÓBORA>  COMUM",
+        "Produto_Global": "Abóbora Comum"
+    },
+    {
+        "Produto_Original": "ABÓBORA>  HÍBRIDA",
+        "Produto_Global": "Abóbora Comum"
+    },
+    {
+        "Produto_Original": "ABÓBORA>  LEITE",
+        "Produto_Global": "Abóbora de Leite"
+    },
+    {
+        "Produto_Original": "ABÓBORA>  MORANGA",
+        "Produto_Global": "Abóbora Moranga"
+    },
+    {
+        "Produto_Original": "ABÓBORA>  ORGÂNICO(A)",
+        "Produto_Global": "Abóbora Comum"
+    },
+    {
+        "Produto_Original": "ABÓBORA>  ORGÂNICO(A), BAIANA",
+        "Produto_Global": "Abóbora Comum"
+    },
+    {
+        "Produto_Original": "ABOBRINHA>  (Classificação sem características)",
+        "Produto_Global": "Abobrinha"
+    },
+    {
+        "Produto_Original": "ABOBRINHA>  A VÁCUO, FATIADA, VERDE",
+        "Produto_Global": "Abobrinha"
+    },
+    {
+        "Produto_Original": "ABOBRINHA>  BRASILEIRA",
+        "Produto_Global": "Abobrinha Brasileira (Menina)"
+    },
+    {
+        "Produto_Original": "ABOBRINHA>  ITALIANA",
+        "Produto_Global": "Abobrinha Italiana"
+    },
+    {
+        "Produto_Original": "ABOBRINHA>  MENINA BRASILEIRA",
+        "Produto_Global": "Abobrinha Brasileira (Menina)"
+    },
+    {
+        "Produto_Original": "ABOBRINHA>  ORGÂNICO(A)",
+        "Produto_Global": "Abobrinha"
+    },
+    {
+        "Produto_Original": "ACELGA>  (Classificação sem características)",
+        "Produto_Global": "Acelga"
+    },
+    {
+        "Produto_Original": "ACEROLA>  (Classificação sem características)",
+        "Produto_Global": "Acerola"
+    },
+    {
+        "Produto_Original": "ACHOCOLATADO EM PÓ>  (Classificação sem características)",
+        "Produto_Global": "Achocolatado em Pó"
+    },
+    {
+        "Produto_Original": "AÇÚCAR>  MASCAVO",
+        "Produto_Global": "Açúcar"
+    },
+    {
+        "Produto_Original": "AGRIÃO>  (Classificação sem características)",
+        "Produto_Global": "Agrião"
+    },
+    {
+        "Produto_Original": "ALFACE>  (Classificação sem características)",
+        "Produto_Global": "Alface"
+    },
+    {
+        "Produto_Original": "ALFACE>  AMERICANA",
+        "Produto_Global": "Alface Americana"
+    },
+    {
+        "Produto_Original": "ALFACE>  CRESPA",
+        "Produto_Global": "Alface Crespa"
+    },
+    {
+        "Produto_Original": "ALFACE>  LISA",
+        "Produto_Global": "Alface Lisa"
+    },
+    {
+        "Produto_Original": "ALFACE>  ORGÂNICO(A)",
+        "Produto_Global": "Alface"
+    },
+    {
+        "Produto_Original": "ALFACE>  ORGÂNICO(A), CRESPA",
+        "Produto_Global": "Alface Crespa"
+    },
+    {
+        "Produto_Original": "ALHO>  (Classificação sem características)",
+        "Produto_Global": "Alho"
+    },
+    {
+        "Produto_Original": "ALHO>  BRANCO COMUM",
+        "Produto_Global": "Alho Branco"
+    },
+    {
+        "Produto_Original": "ALHO>  ORGÂNICO(A)",
+        "Produto_Global": "Alho"
+    },
+    {
+        "Produto_Original": "ALHO>  ORGÂNICO(A), PORÓ",
+        "Produto_Global": "Alho-Poró"
+    },
+    {
+        "Produto_Original": "ALHO>  PORÓ",
+        "Produto_Global": "Alho-Poró"
+    },
+    {
+        "Produto_Original": "ALHO>  ROXO COMUM",
+        "Produto_Global": "Alho Roxo"
+    },
+    {
+        "Produto_Original": "AMÊNDOA DO LICURI>  (Classificação sem características)",
+        "Produto_Global": "Amêndoa de Licuri"
+    },
+    {
+        "Produto_Original": "AMÊNDOA DO LICURI>  TORRADO",
+        "Produto_Global": "Amêndoa de Licuri"
+    },
+    {
+        "Produto_Original": "AMENDOIM>  (Classificação sem características)",
+        "Produto_Global": "Amendoim"
+    },
+    {
+        "Produto_Original": "AMENDOIM>  EM CASCA",
+        "Produto_Global": "Amendoim"
+    },
+    {
+        "Produto_Original": "ARRAIA>  EVISCERADA, EM POSTAS",
+        "Produto_Global": "Arraia"
+    },
+    {
+        "Produto_Original": "ARROZ>  (Classificação sem características)",
+        "Produto_Global": "Arroz"
+    },
+    {
+        "Produto_Original": "ARROZ>  BENEFICIADO",
+        "Produto_Global": "Arroz"
+    },
+    {
+        "Produto_Original": "BANANA>  (Classificação sem características)",
+        "Produto_Global": "Banana-Prata"
+    },
+    {
+        "Produto_Original": "BANANA>  D´ÁGUA",
+        "Produto_Global": "Banana-d'Água"
+    },
+    {
+        "Produto_Original": "BANANA>  DA TERRA",
+        "Produto_Global": "Banana-da-Terra"
+    },
+    {
+        "Produto_Original": "BANANA>  EXTRA, PRATA",
+        "Produto_Global": "Banana-Prata"
+    },
+    {
+        "Produto_Original": "BANANA>  MAÇÃ",
+        "Produto_Global": "Banana-Maçã"
+    },
+    {
+        "Produto_Original": "BANANA>  NANICA",
+        "Produto_Global": "Banana-Nanica"
+    },
+    {
+        "Produto_Original": "BANANA>  ORGÂNICO(A), DA TERRA",
+        "Produto_Global": "Banana-da-Terra"
+    },
+    {
+        "Produto_Original": "BANANA>  ORGÂNICO(A), MAÇÃ",
+        "Produto_Global": "Banana-Maçã"
+    },
+    {
+        "Produto_Original": "BANANA>  ORGÂNICO(A), PRATA",
+        "Produto_Global": "Banana-Prata"
+    },
+    {
+        "Produto_Original": "BANANA>  PACOVAN",
+        "Produto_Global": "Banana-Pacovan"
+    },
+    {
+        "Produto_Original": "BANANA>  PASSA",
+        "Produto_Global": "Banana-Passa"
+    },
+    {
+        "Produto_Original": "BANANA>  PRATA",
+        "Produto_Global": "Banana-Prata"
+    },
+    {
+        "Produto_Original": "BATATA>  (Classificação sem características)",
+        "Produto_Global": "Batata-Inglesa"
+    },
+    {
+        "Produto_Original": "BATATA>  BATATINHA",
+        "Produto_Global": "Batata-Inglesa"
+    },
+    {
+        "Produto_Original": "BATATA>  DOCE",
+        "Produto_Global": "Batata-Doce"
+    },
+    {
+        "Produto_Original": "BATATA>  INGLESA",
+        "Produto_Global": "Batata-Inglesa"
+    },
+    {
+        "Produto_Original": "BATATA>  ORGÂNICO(A), DOCE",
+        "Produto_Global": "Batata-Doce"
+    },
+    {
+        "Produto_Original": "BATATA-DOCE>  (Classificação sem características)",
+        "Produto_Global": "Batata-Doce"
+    },
+    {
+        "Produto_Original": "BATATA-DOCE>  ORGÂNICO(A)",
+        "Produto_Global": "Batata-Doce"
+    },
+    {
+        "Produto_Original": "BEBIDA LÁCTEA>  (Classificação sem características)",
+        "Produto_Global": "Bebida Láctea / Iogurte"
+    },
+    {
+        "Produto_Original": "BEBIDA LÁCTEA>  IOGURTE",
+        "Produto_Global": "Bebida Láctea / Iogurte"
+    },
+    {
+        "Produto_Original": "BEIJU DE MILHO>  (Classificação sem características)",
+        "Produto_Global": "Beiju de Milho"
+    },
+    {
+        "Produto_Original": "BEIJU>  (Classificação sem características)",
+        "Produto_Global": "Beiju de Mandioca / Fécula"
+    },
+    {
+        "Produto_Original": "BEIJU>  DE FÉCULA",
+        "Produto_Global": "Beiju de Mandioca / Fécula"
+    },
+    {
+        "Produto_Original": "BEIJU>  RECHEADO",
+        "Produto_Global": "Beiju Recheado"
+    },
+    {
+        "Produto_Original": "BERINJELA>  (Classificação sem características)",
+        "Produto_Global": "Berinjela"
+    },
+    {
+        "Produto_Original": "BERINJELA>  ORGÂNICO(A)",
+        "Produto_Global": "Berinjela"
+    },
+    {
+        "Produto_Original": "BETERRABA>  (Classificação sem características)",
+        "Produto_Global": "Beterraba"
+    },
+    {
+        "Produto_Original": "BETERRABA>  EXTRA",
+        "Produto_Global": "Beterraba"
+    },
+    {
+        "Produto_Original": "BETERRABA>  ORGÂNICO(A)",
+        "Produto_Global": "Beterraba"
+    },
+    {
+        "Produto_Original": "BISCOITO>  CHIMANGO",
+        "Produto_Global": "Biscoito / Sequilho de Goma / Tapioca / Polvilho"
+    },
+    {
+        "Produto_Original": "BISCOITO>  DE GOMA",
+        "Produto_Global": "Biscoito / Sequilho de Goma / Tapioca / Polvilho"
+    },
+    {
+        "Produto_Original": "BISCOITO>  DE LICURI",
+        "Produto_Global": "Biscoito de Licuri"
+    },
+    {
+        "Produto_Original": "BISCOITO>  DE TAPIOCA",
+        "Produto_Global": "Biscoito / Sequilho de Goma / Tapioca / Polvilho"
+    },
+    {
+        "Produto_Original": "BISCOITO>  POLVILHO",
+        "Produto_Global": "Biscoito / Sequilho de Goma / Tapioca / Polvilho"
+    },
+    {
+        "Produto_Original": "BISCOITO>  SEQUILHOS",
+        "Produto_Global": "Biscoito / Sequilho de Goma / Tapioca / Polvilho"
+    },
+    {
+        "Produto_Original": "BISCOITO>  VOADOR",
+        "Produto_Global": "Biscoito / Sequilho de Goma / Tapioca / Polvilho"
+    },
+    {
+        "Produto_Original": "BOLACHA>  GOMA",
+        "Produto_Global": "Biscoito / Sequilho de Goma / Tapioca / Polvilho"
+    },
+    {
+        "Produto_Original": "BOLO DE MILHO>  (Classificação sem características)",
+        "Produto_Global": "Bolo de Milho / Fubá"
+    },
+    {
+        "Produto_Original": "BOLO>  (Classificação sem características)",
+        "Produto_Global": "Bolo Caseiro Tradicional"
+    },
+    {
+        "Produto_Original": "BOLO>  CASEIRO, DE GOMA DE TAPIOCA",
+        "Produto_Global": "Bolo de Tapioca / Goma"
+    },
+    {
+        "Produto_Original": "BOLO>  CASEIRO, DE MANDIOCA PUBA",
+        "Produto_Global": "Bolo de Aipim / Mandioca / Puba"
+    },
+    {
+        "Produto_Original": "BOLO>  CASEIRO, DE MILHO VERDE",
+        "Produto_Global": "Bolo de Milho / Fubá"
+    },
+    {
+        "Produto_Original": "BOLO>  DE AIPIM",
+        "Produto_Global": "Bolo de Aipim / Mandioca / Puba"
+    },
+    {
+        "Produto_Original": "BOLO>  DE BANANA",
+        "Produto_Global": "Bolo de Banana"
+    },
+    {
+        "Produto_Original": "BOLO>  DE CARIMÃ",
+        "Produto_Global": "Bolo de Aipim / Mandioca / Puba"
+    },
+    {
+        "Produto_Original": "BOLO>  DE CENOURA",
+        "Produto_Global": "Bolo de Cenoura"
+    },
+    {
+        "Produto_Original": "BOLO>  DE FARINHA DE MANDIOCA",
+        "Produto_Global": "Bolo de Aipim / Mandioca / Puba"
+    },
+    {
+        "Produto_Original": "BOLO>  DE FÉCULA DE MANDIOCA",
+        "Produto_Global": "Bolo de Aipim / Mandioca / Puba"
+    },
+    {
+        "Produto_Original": "BOLO>  DE INHAME",
+        "Produto_Global": "Bolo de Inhame"
+    },
+    {
+        "Produto_Original": "BOLO>  DE LARANJA",
+        "Produto_Global": "Bolo de Laranja"
+    },
+    {
+        "Produto_Original": "BOLO>  DE LEITE",
+        "Produto_Global": "Bolo de Leite"
+    },
+    {
+        "Produto_Original": "BOLO>  DE MACAXEIRA",
+        "Produto_Global": "Bolo de Aipim / Mandioca / Puba"
+    },
+    {
+        "Produto_Original": "BOLO>  DE MANDIOCA",
+        "Produto_Global": "Bolo de Aipim / Mandioca / Puba"
+    },
+    {
+        "Produto_Original": "BOLO>  DE MILHO",
+        "Produto_Global": "Bolo de Milho / Fubá"
+    },
+    {
+        "Produto_Original": "BOLO>  DE OVOS",
+        "Produto_Global": "Bolo de Ovos"
+    },
+    {
+        "Produto_Original": "BOLO>  DE POLVILHO",
+        "Produto_Global": "Bolo de Tapioca / Goma"
+    },
+    {
+        "Produto_Original": "BOLO>  DE PUBA",
+        "Produto_Global": "Bolo de Aipim / Mandioca / Puba"
+    },
+    {
+        "Produto_Original": "BOLO>  DE TAPIOCA",
+        "Produto_Global": "Bolo de Tapioca / Goma"
+    },
+    {
+        "Produto_Original": "BOLO>  FUBÁ",
+        "Produto_Global": "Bolo de Milho / Fubá"
+    },
+    {
+        "Produto_Original": "BRÓCOLIS>  (Classificação sem características)",
+        "Produto_Global": "Brócolis"
+    },
+    {
+        "Produto_Original": "CAFÉ>  MOÍDO E TORRADO",
+        "Produto_Global": "Café"
+    },
+    {
+        "Produto_Original": "CAJÁ>  (Classificação sem características)",
+        "Produto_Global": "Cajá"
+    },
+    {
+        "Produto_Original": "CAJU>  (Classificação sem características)",
+        "Produto_Global": "Caju"
+    },
+    {
+        "Produto_Original": "CAJU>  ORGÂNICO(A)",
+        "Produto_Global": "Caju"
+    },
+    {
+        "Produto_Original": "CALDO>  DE AIPIM",
+        "Produto_Global": "Caldo de Aipim"
+    },
+    {
+        "Produto_Original": "CAMARÃO>  CINZA, FILÉ, MÉDIO",
+        "Produto_Global": "Camarão"
+    },
+    {
+        "Produto_Original": "CAMARÃO>  CONGELADO, LIMPO SEM CABEÇA",
+        "Produto_Global": "Camarão"
+    },
+    {
+        "Produto_Original": "CANJICA DE MILHO>  (Classificação sem características)",
+        "Produto_Global": "Canjica de Milho"
+    },
+    {
+        "Produto_Original": "CANJICA DE MILHO>  BRANCA",
+        "Produto_Global": "Canjica de Milho Branca"
+    },
+    {
+        "Produto_Original": "CANJICA DE MILHO>  ESPECIAL, DESPELICULADO, AMARELO (A), 2",
+        "Produto_Global": "Canjica de Milho Amarela"
+    },
+    {
+        "Produto_Original": "CANJICA DE MILHO>  NÃO TRANSGENICO",
+        "Produto_Global": "Canjica de Milho"
+    },
+    {
+        "Produto_Original": "CARNE BOVINA>  ACÉM",
+        "Produto_Global": "Carne Bovina"
+    },
+    {
+        "Produto_Original": "CARNE BOVINA>  ACÉM COM OSSO",
+        "Produto_Global": "Carne Bovina"
+    },
+    {
+        "Produto_Original": "CARNE BOVINA>  ALCATRA",
+        "Produto_Global": "Carne Bovina"
+    },
+    {
+        "Produto_Original": "CARNE BOVINA>  DIANTEIRA",
+        "Produto_Global": "Carne Bovina"
+    },
+    {
+        "Produto_Original": "CARNE BOVINA>  TRASEIRA",
+        "Produto_Global": "Carne Bovina"
+    },
+    {
+        "Produto_Original": "CARNE CAPRINA>  (Classificação sem características)",
+        "Produto_Global": "Carne de Bode"
+    },
+    {
+        "Produto_Original": "CARNE CAPRINA>  DE BODE",
+        "Produto_Global": "Carne de Bode"
+    },
+    {
+        "Produto_Original": "CARNE CAPRINA>  DE PRIMEIRA COM OSSO, DE BODE",
+        "Produto_Global": "Carne de Bode"
+    },
+    {
+        "Produto_Original": "CARNE CAPRINA>  DIANTEIRA",
+        "Produto_Global": "Carne de Bode"
+    },
+    {
+        "Produto_Original": "CARNE CAPRINA>  TRASEIRA",
+        "Produto_Global": "Carne de Bode"
+    },
+    {
+        "Produto_Original": "CARNE DE FRANGO>  CAIPIRA, ABATIDO",
+        "Produto_Global": "Frango"
+    },
+    {
+        "Produto_Original": "CARNE DE FRANGO>  CAIPIRA, FRANGO",
+        "Produto_Global": "Frango"
+    },
+    {
+        "Produto_Original": "CARNE DE FRANGO>  IN NATURA, CAIPIRA, ABATIDO",
+        "Produto_Global": "Frango"
+    },
+    {
+        "Produto_Original": "CARNE OVINA>  DE CARNEIRO",
+        "Produto_Global": "Carne de Carneiro"
+    },
+    {
+        "Produto_Original": "CARNE OVINA>  DIANTEIRA",
+        "Produto_Global": "Carne de Carneiro"
+    },
+    {
+        "Produto_Original": "CARNE OVINA>  TRASEIRA",
+        "Produto_Global": "Carne de Carneiro"
+    },
+    {
+        "Produto_Original": "CARNE SUÍNA>  DE PRIMEIRA",
+        "Produto_Global": "Carne Suína"
+    },
+    {
+        "Produto_Original": "CARNE SUÍNA>  DE SEGUNDA",
+        "Produto_Global": "Carne Suína"
+    },
+    {
+        "Produto_Original": "CARNE SUÍNA>  DIANTEIRA",
+        "Produto_Global": "Carne Suína"
+    },
+    {
+        "Produto_Original": "CARNE SUÍNA>  TRASEIRA",
+        "Produto_Global": "Carne Suína"
+    },
+    {
+        "Produto_Original": "CASTANHA DE CAJU>  ASSADA",
+        "Produto_Global": "Castanha-de-Caju"
+    },
+    {
+        "Produto_Original": "CASTANHA DE CAJU>  BENEFICIADO (A), INTEIRA ESPECIAL, 1",
+        "Produto_Global": "Castanha-de-Caju"
+    },
+    {
+        "Produto_Original": "CAVALA>  EM POSTAS",
+        "Produto_Global": "Peixe Cavala"
+    },
+    {
+        "Produto_Original": "CAXIXE>  (Classificação sem características)",
+        "Produto_Global": "Caxixe"
+    },
+    {
+        "Produto_Original": "CEBOLA>  (Classificação sem características)",
+        "Produto_Global": "Cebola"
+    },
+    {
+        "Produto_Original": "CEBOLA>  BRANCA",
+        "Produto_Global": "Cebola"
+    },
+    {
+        "Produto_Original": "CEBOLA>  CEBOLA",
+        "Produto_Global": "Cebola"
+    },
+    {
+        "Produto_Original": "CEBOLA>  ORGÂNICO(A)",
+        "Produto_Global": "Cebola"
+    },
+    {
+        "Produto_Original": "CEBOLA>  ORGÂNICO(A), ROXA",
+        "Produto_Global": "Cebola Roxa"
+    },
+    {
+        "Produto_Original": "CEBOLA>  ROXA",
+        "Produto_Global": "Cebola Roxa"
+    },
+    {
+        "Produto_Original": "CEBOLINHA>  (Classificação sem características)",
+        "Produto_Global": "Cebolinha"
+    },
+    {
+        "Produto_Original": "CEBOLINHA>  ORGÂNICO(A)",
+        "Produto_Global": "Cebolinha"
+    },
+    {
+        "Produto_Original": "CEBOLINHA>  ORGÂNICO(A), VERDE",
+        "Produto_Global": "Cebolinha"
+    },
+    {
+        "Produto_Original": "CEBOLINHA>  VERDE",
+        "Produto_Global": "Cebolinha"
+    },
+    {
+        "Produto_Original": "CENOURA>  (Classificação sem características)",
+        "Produto_Global": "Cenoura"
+    },
+    {
+        "Produto_Original": "CENOURA>  EXTRA",
+        "Produto_Global": "Cenoura"
+    },
+    {
+        "Produto_Original": "CENOURA>  ORGÂNICO(A)",
+        "Produto_Global": "Cenoura"
+    },
+    {
+        "Produto_Original": "CHEIRO VERDE>  (Classificação sem características)",
+        "Produto_Global": "Cheiro-Verde"
+    },
+    {
+        "Produto_Original": "CHICÓRIA>  (Classificação sem características)",
+        "Produto_Global": "Chicória"
+    },
+    {
+        "Produto_Original": "CHUCHU>  (Classificação sem características)",
+        "Produto_Global": "Chuchu"
+    },
+    {
+        "Produto_Original": "CHUCHU>  EXTRA",
+        "Produto_Global": "Chuchu"
+    },
+    {
+        "Produto_Original": "CHUCHU>  EXTRA, ORGÂNICO(A)",
+        "Produto_Global": "Chuchu"
+    },
+    {
+        "Produto_Original": "CHUCHU>  ORGÂNICO(A)",
+        "Produto_Global": "Chuchu"
+    },
+    {
+        "Produto_Original": "CIOBA>  EM POSTAS",
+        "Produto_Global": "Peixe Cioba"
+    },
+    {
+        "Produto_Original": "COCO>  ORGÂNICO(A)",
+        "Produto_Global": "Coco Seco"
+    },
+    {
+        "Produto_Original": "COCO>  SECO",
+        "Produto_Global": "Coco Seco"
+    },
+    {
+        "Produto_Original": "COCO>  VERDE",
+        "Produto_Global": "Coco Verde"
+    },
+    {
+        "Produto_Original": "COENTRO>  (Classificação sem características)",
+        "Produto_Global": "Coentro"
+    },
+    {
+        "Produto_Original": "COENTRO>  ORGÂNICO(A)",
+        "Produto_Global": "Coentro"
+    },
+    {
+        "Produto_Original": "COMPOTA>  DE GOIABA",
+        "Produto_Global": "Compota de Goiaba"
+    },
+    {
+        "Produto_Original": "COMPOTA>  DE MANGA",
+        "Produto_Global": "Compota de Manga"
+    },
+    {
+        "Produto_Original": "COMPOTA>  DE UMBU",
+        "Produto_Global": "Compota de Umbu"
+    },
+    {
+        "Produto_Original": "COMPOTA>  ORGÂNICO(A), DE MANGA",
+        "Produto_Global": "Compota de Manga"
+    },
+    {
+        "Produto_Original": "COMPOTA>  ORGÂNICO(A), DE UMBU",
+        "Produto_Global": "Compota de Umbu"
+    },
+    {
+        "Produto_Original": "CORANTE>  COLORAU",
+        "Produto_Global": "Colorau (Corante de Urucum)"
+    },
+    {
+        "Produto_Original": "COUVE>  (Classificação sem características)",
+        "Produto_Global": "Couve"
+    },
+    {
+        "Produto_Original": "COUVE>  FOLHA",
+        "Produto_Global": "Couve"
+    },
+    {
+        "Produto_Original": "COUVE>  MANTEIGA",
+        "Produto_Global": "Couve"
+    },
+    {
+        "Produto_Original": "COUVE>  ORGÂNICO(A)",
+        "Produto_Global": "Couve"
+    },
+    {
+        "Produto_Original": "COUVE-FLOR>  (Classificação sem características)",
+        "Produto_Global": "Couve-Flor"
+    },
+    {
+        "Produto_Original": "CREME DE MILHO>  (Classificação sem características)",
+        "Produto_Global": "Creme de Milho"
+    },
+    {
+        "Produto_Original": "CREME DE MILHO>  NÃO TRANSGENICO",
+        "Produto_Global": "Creme de Milho"
+    },
+    {
+        "Produto_Original": "CUPUAÇU>  (Classificação sem características)",
+        "Produto_Global": "Cupuaçu"
+    },
+    {
+        "Produto_Original": "CUPUAÇU>  POLPA",
+        "Produto_Global": "Cupuaçu"
+    },
+    {
+        "Produto_Original": "CURIMATÃ>  EVISCERADA (O)",
+        "Produto_Global": "Peixe Curimatã"
+    },
+    {
+        "Produto_Original": "CURIMATÃ>  IN NATURA, EVISCERADA (O)",
+        "Produto_Global": "Peixe Curimatã"
+    },
+    {
+        "Produto_Original": "CUSCUZ>  DE TAPIOCA",
+        "Produto_Global": "Cuscuz de Tapioca"
+    },
+    {
+        "Produto_Original": "DEBULHA>  DE FEIJÃO",
+        "Produto_Global": "Feijão Verde Debulhado"
+    },
+    {
+        "Produto_Original": "DOCE DE BANANA>  (Classificação sem características)",
+        "Produto_Global": "Doce de Banana"
+    },
+    {
+        "Produto_Original": "DOCE DE BANANA>  ARTESANAL",
+        "Produto_Global": "Doce de Banana"
+    },
+    {
+        "Produto_Original": "DOCE DE BANANA>  BANANADA",
+        "Produto_Global": "Doce de Banana"
+    },
+    {
+        "Produto_Original": "DOCE DE BANANA>  BARRA",
+        "Produto_Global": "Doce de Banana"
+    },
+    {
+        "Produto_Original": "DOCE DE BANANA>  CASEIRO",
+        "Produto_Global": "Doce de Banana"
+    },
+    {
+        "Produto_Original": "DOCE DE BANANA>  COM POLPA DE MARACUJÁ AMARELO",
+        "Produto_Global": "Doce de Banana com Maracujá"
+    },
+    {
+        "Produto_Original": "DOCE DE BANANA>  PASTOSO",
+        "Produto_Global": "Doce de Banana"
+    },
+    {
+        "Produto_Original": "DOCE DE GOIABA>  (Classificação sem características)",
+        "Produto_Global": "Doce de Goiaba"
+    },
+    {
+        "Produto_Original": "DOCE DE GOIABA>  BARRA",
+        "Produto_Global": "Doce de Goiaba"
+    },
+    {
+        "Produto_Original": "DOCE DE GOIABA>  GOIABADA",
+        "Produto_Global": "Doce de Goiaba"
+    },
+    {
+        "Produto_Original": "DOCE DE GOIABA>  ORGÂNICO(A)",
+        "Produto_Global": "Doce de Goiaba"
+    },
+    {
+        "Produto_Original": "DOCE DE LEITE>  BARRA",
+        "Produto_Global": "Doce de Leite"
+    },
+    {
+        "Produto_Original": "DOCE DE LEITE>  PASTOSO",
+        "Produto_Global": "Doce de Leite"
+    },
+    {
+        "Produto_Original": "DOCE DE MANGA>  (Classificação sem características)",
+        "Produto_Global": "Doce de Manga"
+    },
+    {
+        "Produto_Original": "DOCE DE MANGA>  PASTOSO",
+        "Produto_Global": "Doce de Manga"
+    },
+    {
+        "Produto_Original": "DOCE DE TAMARINDO>  (Classificação sem características)",
+        "Produto_Global": "Doce de Tamarindo"
+    },
+    {
+        "Produto_Original": "DOCE DE UMBU>  (Classificação sem características)",
+        "Produto_Global": "Doce de Umbu"
+    },
+    {
+        "Produto_Original": "DOCE DE UMBU>  COM GOIABA",
+        "Produto_Global": "Doce de Umbu com Goiaba"
+    },
+    {
+        "Produto_Original": "DOCE DE UMBU>  ORGÂNICO(A)",
+        "Produto_Global": "Doce de Umbu"
+    },
+    {
+        "Produto_Original": "DOCE DE UMBU>  PASTOSO",
+        "Produto_Global": "Doce de Umbu"
+    },
+    {
+        "Produto_Original": "DOURADO>  EVISCERADO",
+        "Produto_Global": "Peixe Dourado"
+    },
+    {
+        "Produto_Original": "ESPECIAL PARA ENSOPADO DE OVINOS/CAPRINOS>  (Classificação sem características)",
+        "Produto_Global": "Carne de Caprino / Ovino para Ensopado"
+    },
+    {
+        "Produto_Original": "ESPINAFRE>  (Classificação sem características)",
+        "Produto_Global": "Espinafre"
+    },
+    {
+        "Produto_Original": "ESPINAFRE>  ORGÂNICO(A)",
+        "Produto_Global": "Espinafre"
+    },
+    {
+        "Produto_Original": "EXTRATO DE TOMATE>  ORGÂNICO(A)",
+        "Produto_Global": "Extrato de Tomate"
+    },
+    {
+        "Produto_Original": "FARINHA DE FUBÁ>  (Classificação sem características)",
+        "Produto_Global": "Fubá de Milho"
+    },
+    {
+        "Produto_Original": "FARINHA DE MANDIOCA>  (Classificação sem características)",
+        "Produto_Global": "Farinha de Mandioca"
+    },
+    {
+        "Produto_Original": "FARINHA DE MANDIOCA>  BEJU",
+        "Produto_Global": "Farinha de Mandioca Beiju"
+    },
+    {
+        "Produto_Original": "FARINHA DE MANDIOCA>  BRANCO (A)",
+        "Produto_Global": "Farinha de Mandioca"
+    },
+    {
+        "Produto_Original": "FARINHA DE MANDIOCA>  CRUA FINA",
+        "Produto_Global": "Farinha de Mandioca"
+    },
+    {
+        "Produto_Original": "FARINHA DE MANDIOCA>  FINA, TIPO 1, TORRADA",
+        "Produto_Global": "Farinha de Mandioca"
+    },
+    {
+        "Produto_Original": "FARINHA DE MANDIOCA>  ORGÂNICO(A)",
+        "Produto_Global": "Farinha de Mandioca"
+    },
+    {
+        "Produto_Original": "FARINHA DE MANDIOCA>  PUBA",
+        "Produto_Global": "Farinha de Mandioca de Puba"
+    },
+    {
+        "Produto_Original": "FARINHA DE MANDIOCA>  SECA, FINA",
+        "Produto_Global": "Farinha de Mandioca"
+    },
+    {
+        "Produto_Original": "FARINHA DE MANDIOCA>  SECA, FINA, BRANCA",
+        "Produto_Global": "Farinha de Mandioca"
+    },
+    {
+        "Produto_Original": "FARINHA DE MANDIOCA>  SECA, FINA, BRANCO (A), 1",
+        "Produto_Global": "Farinha de Mandioca"
+    },
+    {
+        "Produto_Original": "FARINHA DE MANDIOCA>  SECA, FINA, TIPO 1",
+        "Produto_Global": "Farinha de Mandioca"
+    },
+    {
+        "Produto_Original": "FARINHA DE MANDIOCA>  SECO (A)",
+        "Produto_Global": "Farinha de Mandioca"
+    },
+    {
+        "Produto_Original": "FARINHA DE MANDIOCA>  TORRADA MÉDIA BRANCA",
+        "Produto_Global": "Farinha de Mandioca"
+    },
+    {
+        "Produto_Original": "FARINHA DE TAPIOCA>  (Classificação sem características)",
+        "Produto_Global": "Farinha de Tapioca"
+    },
+    {
+        "Produto_Original": "FÉCULA DE MANDIOCA>  (Classificação sem características)",
+        "Produto_Global": "Fécula de Mandioca"
+    },
+    {
+        "Produto_Original": "FÉCULA DE MANDIOCA>  1",
+        "Produto_Global": "Fécula de Mandioca"
+    },
+    {
+        "Produto_Original": "FEIJÃO>  (Classificação sem características)",
+        "Produto_Global": "Feijão Carioca"
+    },
+    {
+        "Produto_Original": "FEIJÃO>  ANDU",
+        "Produto_Global": "Feijão Andu / Guandu"
+    },
+    {
+        "Produto_Original": "FEIJÃO>  CARIOCA",
+        "Produto_Global": "Feijão Carioca"
+    },
+    {
+        "Produto_Original": "FEIJÃO>  CARIOCA TIPO 1",
+        "Produto_Global": "Feijão Carioca"
+    },
+    {
+        "Produto_Original": "FEIJÃO>  CAUPI",
+        "Produto_Global": "Feijão Fradinho (Caupi / Macaçar)"
+    },
+    {
+        "Produto_Original": "FEIJÃO>  COMUM CORES",
+        "Produto_Global": "Feijão Carioca"
+    },
+    {
+        "Produto_Original": "FEIJÃO>  COMUM CORES CARIOCA",
+        "Produto_Global": "Feijão Carioca"
+    },
+    {
+        "Produto_Original": "FEIJÃO>  DEBULHADO, ORGÂNICO(A), VERDE",
+        "Produto_Global": "Feijão Verde"
+    },
+    {
+        "Produto_Original": "FEIJÃO>  DEBULHADO, VERDE",
+        "Produto_Global": "Feijão Verde"
+    },
+    {
+        "Produto_Original": "FEIJÃO>  GUANDU",
+        "Produto_Global": "Feijão Andu / Guandu"
+    },
+    {
+        "Produto_Original": "FEIJÃO>  MACAÇAR",
+        "Produto_Global": "Feijão Fradinho (Caupi / Macaçar)"
+    },
+    {
+        "Produto_Original": "FEIJÃO>  ORGÂNICO(A), COMUM CORES",
+        "Produto_Global": "Feijão Carioca"
+    },
+    {
+        "Produto_Original": "FEIJÃO>  VERDE",
+        "Produto_Global": "Feijão Verde"
+    },
+    {
+        "Produto_Original": "FEIJÃO>  VERDE EM VAGEM",
+        "Produto_Global": "Feijão Verde"
+    },
+    {
+        "Produto_Original": "FLOCOS DE MILHO>  (Classificação sem características)",
+        "Produto_Global": "Flocos de Milho (Flocão)"
+    },
+    {
+        "Produto_Original": "FLOCOS DE MILHO>  FLOCÃO",
+        "Produto_Global": "Flocos de Milho (Flocão)"
+    },
+    {
+        "Produto_Original": "FLOCOS DE MILHO>  NÃO TRANSGENICO",
+        "Produto_Global": "Flocos de Milho (Flocão)"
+    },
+    {
+        "Produto_Original": "FRANGO>  CAIPIRA",
+        "Produto_Global": "Frango Caipira"
+    },
+    {
+        "Produto_Original": "FRUTA-PÃO>  (Classificação sem características)",
+        "Produto_Global": "Fruta-Pão"
+    },
+    {
+        "Produto_Original": "GELÉIA>  DE ACEROLA",
+        "Produto_Global": "Geleia de Acerola"
+    },
+    {
+        "Produto_Original": "GELÉIA>  DE BANANA",
+        "Produto_Global": "Geleia de Banana"
+    },
+    {
+        "Produto_Original": "GELÉIA>  DE GOIABA C/ UMBU",
+        "Produto_Global": "Geleia de Goiaba com Umbu"
+    },
+    {
+        "Produto_Original": "GELÉIA>  DE MANGA",
+        "Produto_Global": "Geleia de Manga"
+    },
+    {
+        "Produto_Original": "GELÉIA>  DE MARACUJÁ DA CAATINGA",
+        "Produto_Global": "Geleia de Maracujá da Caatinga"
+    },
+    {
+        "Produto_Original": "GELÉIA>  DE UMBU",
+        "Produto_Global": "Geleia de Umbu"
+    },
+    {
+        "Produto_Original": "GELÉIA>  GOIABA",
+        "Produto_Global": "Geleia de Goiaba"
+    },
+    {
+        "Produto_Original": "GELÉIA>  ORGÂNICO(A)",
+        "Produto_Global": "Geleia de Frutas"
+    },
+    {
+        "Produto_Original": "GELÉIA>  ORGÂNICO(A), DE MARACUJÁ DA CAATINGA",
+        "Produto_Global": "Geleia de Maracujá da Caatinga"
+    },
+    {
+        "Produto_Original": "GELÉIA>  ORGÂNICO(A), DE UMBU",
+        "Produto_Global": "Geleia de Umbu"
+    },
+    {
+        "Produto_Original": "GERGELIM>  (Classificação sem características)",
+        "Produto_Global": "Gergelim"
+    },
+    {
+        "Produto_Original": "GOIABA>  (Classificação sem características)",
+        "Produto_Global": "Goiaba"
+    },
+    {
+        "Produto_Original": "GOIABA>  VERMELHA",
+        "Produto_Global": "Goiaba"
+    },
+    {
+        "Produto_Original": "GRAVIOLA>  (Classificação sem características)",
+        "Produto_Global": "Graviola"
+    },
+    {
+        "Produto_Original": "HORTELÃ (HORTALIÇA)>  (Classificação sem características)",
+        "Produto_Global": "Hortelã"
+    },
+    {
+        "Produto_Original": "HORTELÃ (HORTALIÇA)>  GRAÚDO",
+        "Produto_Global": "Hortelã Graúda"
+    },
+    {
+        "Produto_Original": "HORTELÃ (HORTALIÇA)>  MIÚDO (A)",
+        "Produto_Global": "Hortelã Miúda"
+    },
+    {
+        "Produto_Original": "HORTELÃ (HORTALIÇA)>  ORGÂNICO(A)",
+        "Produto_Global": "Hortelã"
+    },
+    {
+        "Produto_Original": "HORTELÃ>  (Classificação sem características)",
+        "Produto_Global": "Hortelã"
+    },
+    {
+        "Produto_Original": "INHAME>  (Classificação sem características)",
+        "Produto_Global": "Inhame"
+    },
+    {
+        "Produto_Original": "INHAME>  BRANCO (A)",
+        "Produto_Global": "Inhame"
+    },
+    {
+        "Produto_Original": "INHAME>  ORGÂNICO(A)",
+        "Produto_Global": "Inhame"
+    },
+    {
+        "Produto_Original": "IOGURTE>  (Classificação sem características)",
+        "Produto_Global": "Bebida Láctea / Iogurte"
+    },
+    {
+        "Produto_Original": "JACA>  (Classificação sem características)",
+        "Produto_Global": "Jaca"
+    },
+    {
+        "Produto_Original": "JAMBO>  (Classificação sem características)",
+        "Produto_Global": "Jambo"
+    },
+    {
+        "Produto_Original": "JAMBU>  (Classificação sem características)",
+        "Produto_Global": "Jambu"
+    },
+    {
+        "Produto_Original": "JENIPAPO>  (Classificação sem características)",
+        "Produto_Global": "Jenipapo"
+    },
+    {
+        "Produto_Original": "JILÓ>  (Classificação sem características)",
+        "Produto_Global": "Jiló"
+    },
+    {
+        "Produto_Original": "JILÓ>  ORGÂNICO(A)",
+        "Produto_Global": "Jiló"
+    },
+    {
+        "Produto_Original": "JILÓ>  REDONDO",
+        "Produto_Global": "Jiló"
+    },
+    {
+        "Produto_Original": "LARANJA>  (Classificação sem características)",
+        "Produto_Global": "Laranja Comum"
+    },
+    {
+        "Produto_Original": "LARANJA>  BAHIA",
+        "Produto_Global": "Laranja Bahia"
+    },
+    {
+        "Produto_Original": "LARANJA>  COMUM",
+        "Produto_Global": "Laranja Comum"
+    },
+    {
+        "Produto_Original": "LARANJA>  LIMA",
+        "Produto_Global": "Laranja Lima"
+    },
+    {
+        "Produto_Original": "LARANJA>  MÉDIA, PERA",
+        "Produto_Global": "Laranja Pera"
+    },
+    {
+        "Produto_Original": "LARANJA>  ORGÂNICO(A), BAÍA",
+        "Produto_Global": "Laranja Bahia"
+    },
+    {
+        "Produto_Original": "LARANJA>  ORGÂNICO(A), PERA",
+        "Produto_Global": "Laranja Pera"
+    },
+    {
+        "Produto_Original": "LARANJA>  PERA",
+        "Produto_Global": "Laranja Pera"
+    },
+    {
+        "Produto_Original": "LEITE DE CABRA>  IOGURTE",
+        "Produto_Global": "Iogurte de Leite de Cabra"
+    },
+    {
+        "Produto_Original": "LEITE DE CABRA>  NATURAL, IOGURTE",
+        "Produto_Global": "Iogurte de Leite de Cabra"
+    },
+    {
+        "Produto_Original": "LEITE DE VACA>  INTEGRAL PASTEURIZADO",
+        "Produto_Global": "Leite"
+    },
+    {
+        "Produto_Original": "LIMA>  (Classificação sem características)",
+        "Produto_Global": "Lima"
+    },
+    {
+        "Produto_Original": "LIMÃO>  (Classificação sem características)",
+        "Produto_Global": "Limão Comum"
+    },
+    {
+        "Produto_Original": "LIMÃO>  COMUM",
+        "Produto_Global": "Limão Comum"
+    },
+    {
+        "Produto_Original": "LIMÃO>  CRAVO",
+        "Produto_Global": "Limão Cravo"
+    },
+    {
+        "Produto_Original": "LIMÃO>  ORGÂNICO(A), TAITI",
+        "Produto_Global": "Limão Taiti"
+    },
+    {
+        "Produto_Original": "LIMÃO>  ROSA",
+        "Produto_Global": "Limão Rosa"
+    },
+    {
+        "Produto_Original": "LIMÃO>  TAITI",
+        "Produto_Global": "Limão Taiti"
+    },
+    {
+        "Produto_Original": "MAMÃO>  (Classificação sem características)",
+        "Produto_Global": "Mamão Comum / Caiano"
+    },
+    {
+        "Produto_Original": "MAMÃO>  CAIANO",
+        "Produto_Global": "Mamão Comum / Caiano"
+    },
+    {
+        "Produto_Original": "MAMÃO>  COMUM",
+        "Produto_Global": "Mamão Comum / Caiano"
+    },
+    {
+        "Produto_Original": "MAMÃO>  FORMOSA",
+        "Produto_Global": "Mamão Formosa"
+    },
+    {
+        "Produto_Original": "MAMÃO>  HAVAÍ",
+        "Produto_Global": "Mamão Papaia / Havaí"
+    },
+    {
+        "Produto_Original": "MAMÃO>  ORGÂNICO(A), FORMOSA",
+        "Produto_Global": "Mamão Formosa"
+    },
+    {
+        "Produto_Original": "MAMÃO>  ORGÂNICO(A), PAPAIA",
+        "Produto_Global": "Mamão Papaia / Havaí"
+    },
+    {
+        "Produto_Original": "MAMÃO>  PAPAIA",
+        "Produto_Global": "Mamão Papaia / Havaí"
+    },
+    {
+        "Produto_Original": "MANDIOCA DESCASCADA>  (Classificação sem características)",
+        "Produto_Global": "Mandioca / Aipim (Mesa)"
+    },
+    {
+        "Produto_Original": "MANDIOCA DESCASCADA>  A VÁCUO",
+        "Produto_Global": "Mandioca / Aipim (Mesa)"
+    },
+    {
+        "Produto_Original": "MANGA>  (Classificação sem características)",
+        "Produto_Global": "Manga Comum"
+    },
+    {
+        "Produto_Original": "MANGA>  CARLOTA",
+        "Produto_Global": "Manga Carlota"
+    },
+    {
+        "Produto_Original": "MANGA>  ESPADA",
+        "Produto_Global": "Manga Espada"
+    },
+    {
+        "Produto_Original": "MANGA>  KEITY",
+        "Produto_Global": "Manga Keitt"
+    },
+    {
+        "Produto_Original": "MANGA>  ORGÂNICO(A), PALMER",
+        "Produto_Global": "Manga Palmer"
+    },
+    {
+        "Produto_Original": "MANGA>  ORGÂNICO(A), ROSA",
+        "Produto_Global": "Manga Rosa"
+    },
+    {
+        "Produto_Original": "MANGA>  ORGÂNICO(A), TOMMY ATKINS",
+        "Produto_Global": "Manga Tommy Atkins"
+    },
+    {
+        "Produto_Original": "MANGA>  PALMER",
+        "Produto_Global": "Manga Palmer"
+    },
+    {
+        "Produto_Original": "MANGA>  ROSA",
+        "Produto_Global": "Manga Rosa"
+    },
+    {
+        "Produto_Original": "MANGA>  TOMMY ATKINS",
+        "Produto_Global": "Manga Tommy Atkins"
+    },
+    {
+        "Produto_Original": "MANGALÔ>  (Classificação sem características)",
+        "Produto_Global": "Mangalô"
+    },
+    {
+        "Produto_Original": "MANJERICÃO>  (Classificação sem características)",
+        "Produto_Global": "Manjericão"
+    },
+    {
+        "Produto_Original": "MARACUJA>  (Classificação sem características)",
+        "Produto_Global": "Maracujá"
+    },
+    {
+        "Produto_Original": "MARACUJÁ>  (Classificação sem características)",
+        "Produto_Global": "Maracujá"
+    },
+    {
+        "Produto_Original": "MARACUJÁ>  AMARELO",
+        "Produto_Global": "Maracujá"
+    },
+    {
+        "Produto_Original": "MARACUJÁ>  AZEDO",
+        "Produto_Global": "Maracujá"
+    },
+    {
+        "Produto_Original": "MASSA DE AIPIM>  (Classificação sem características)",
+        "Produto_Global": "Massa de Mandioca / Aipim"
+    },
+    {
+        "Produto_Original": "MASSA DE MANDIOCA>  (Classificação sem características)",
+        "Produto_Global": "Massa de Mandioca / Aipim"
+    },
+    {
+        "Produto_Original": "MASSA DE MANDIOCA>  MASSA DE PUBA",
+        "Produto_Global": "Massa de Puba"
+    },
+    {
+        "Produto_Original": "MASSA DE MANDIOCA>  MASSA DE TAPIOCA ÚMIDA",
+        "Produto_Global": "Massa de Tapioca (Goma Fresca)"
+    },
+    {
+        "Produto_Original": "MAXIXE>  (Classificação sem características)",
+        "Produto_Global": "Maxixe"
+    },
+    {
+        "Produto_Original": "MAXIXE>  ORGÂNICO(A)",
+        "Produto_Global": "Maxixe"
+    },
+    {
+        "Produto_Original": "MAXIXE>  ORGÂNICO(A), COMUM",
+        "Produto_Global": "Maxixe"
+    },
+    {
+        "Produto_Original": "MEL DE ABELHA>  (Classificação sem características)",
+        "Produto_Global": "Mel de Abelha"
+    },
+    {
+        "Produto_Original": "MEL DE ABELHA>  NATIVA",
+        "Produto_Global": "Mel de Abelha"
+    },
+    {
+        "Produto_Original": "MELADO>  (Classificação sem características)",
+        "Produto_Global": "Melado de Cana"
+    },
+    {
+        "Produto_Original": "MELANCIA>  (Classificação sem características)",
+        "Produto_Global": "Melancia"
+    },
+    {
+        "Produto_Original": "MELANCIA>  DO SERTÃO",
+        "Produto_Global": "Melancia"
+    },
+    {
+        "Produto_Original": "MELANCIA>  ORGÂNICO(A)",
+        "Produto_Global": "Melancia"
+    },
+    {
+        "Produto_Original": "MELANCIA>  REDONDA",
+        "Produto_Global": "Melancia"
+    },
+    {
+        "Produto_Original": "MELÃO>  (Classificação sem características)",
+        "Produto_Global": "Melão"
+    },
+    {
+        "Produto_Original": "MELÃO>  AMARELO",
+        "Produto_Global": "Melão Amarelo"
+    },
+    {
+        "Produto_Original": "MILHO>  (Classificação sem características)",
+        "Produto_Global": "Milho Verde (Espiga)"
+    },
+    {
+        "Produto_Original": "MILHO>  EM ESPIGA COM PALHA, ORGÂNICO(A), VERDE",
+        "Produto_Global": "Milho Verde (Espiga)"
+    },
+    {
+        "Produto_Original": "MILHO>  EM ESPIGA COM PALHA, VERDE",
+        "Produto_Global": "Milho Verde (Espiga)"
+    },
+    {
+        "Produto_Original": "MILHO>  EM ESPIGA SEM PALHA, VERDE",
+        "Produto_Global": "Milho Verde (Espiga)"
+    },
+    {
+        "Produto_Original": "MILHO>  ESPIGA",
+        "Produto_Global": "Milho Verde (Espiga)"
+    },
+    {
+        "Produto_Original": "MILHO>  P/ MUNGUZÁ",
+        "Produto_Global": "Milho para Munguzá"
+    },
+    {
+        "Produto_Original": "MILHO>  VERDE",
+        "Produto_Global": "Milho Verde (Espiga)"
+    },
+    {
+        "Produto_Original": "MILHO>  VERDE EM ESPIGA",
+        "Produto_Global": "Milho Verde (Espiga)"
+    },
+    {
+        "Produto_Original": "MINGAU>  (Classificação sem características)",
+        "Produto_Global": "Mingau Tradicional"
+    },
+    {
+        "Produto_Original": "MINGAU>  DE MANDIOCA",
+        "Produto_Global": "Mingau de Mandioca"
+    },
+    {
+        "Produto_Original": "MINGAU>  DE TAPIOCA",
+        "Produto_Global": "Mingau de Tapioca"
+    },
+    {
+        "Produto_Original": "MIX DE CARNE CAPRINA E OVINA>  (Classificação sem características)",
+        "Produto_Global": "Carne Caprina e Ovina (Mix)"
+    },
+    {
+        "Produto_Original": "MORANGO>  A VÁCUO",
+        "Produto_Global": "Morango A Vácuo"
+    },
+    {
+        "Produto_Original": "MOSTARDA>  (Classificação sem características)",
+        "Produto_Global": "Mostarda (Folha)"
+    },
+    {
+        "Produto_Original": "MUDA DE CACAU>  (Classificação sem características)",
+        "Produto_Global": "Muda de Cacau"
+    },
+    {
+        "Produto_Original": "MUDA DE CUPUAÇU>  (Classificação sem características)",
+        "Produto_Global": "Muda de Cupuaçu"
+    },
+    {
+        "Produto_Original": "MUDA DE GRAVIOLA>  (Classificação sem características)",
+        "Produto_Global": "Muda de Graviola"
+    },
+    {
+        "Produto_Original": "MUDA DE PIMENTA DO REINO>  (Classificação sem características)",
+        "Produto_Global": "Muda de Pimenta Do Reino"
+    },
+    {
+        "Produto_Original": "NÉCTAR DE LARANJA>  (Classificação sem características)",
+        "Produto_Global": "Néctar de Laranja"
+    },
+    {
+        "Produto_Original": "OVOS DE GALINHA>  (Classificação sem características)",
+        "Produto_Global": "Ovos"
+    },
+    {
+        "Produto_Original": "OVOS DE GALINHA>  CAIPIRA OU COLONIAL",
+        "Produto_Global": "Ovos"
+    },
+    {
+        "Produto_Original": "OVOS DE GALINHA>  CAIPIRA, ORGÂNICO",
+        "Produto_Global": "Ovos"
+    },
+    {
+        "Produto_Original": "OVOS DE GALINHA>  VERMELHOS",
+        "Produto_Global": "Ovos"
+    },
+    {
+        "Produto_Original": "PAÇOCA>  DE GERGELIM",
+        "Produto_Global": "Paçoca de Gergelim"
+    },
+    {
+        "Produto_Original": "PAMONHA>  (Classificação sem características)",
+        "Produto_Global": "Pamonha"
+    },
+    {
+        "Produto_Original": "PEIXE CARANHA>  (Classificação sem características)",
+        "Produto_Global": "Peixe Caranha"
+    },
+    {
+        "Produto_Original": "PEIXE CARANHA>  ARTESANAL",
+        "Produto_Global": "Peixe Caranha"
+    },
+    {
+        "Produto_Original": "PEIXE PIRANHA>  EVISCERADA (O)",
+        "Produto_Global": "Peixe Piranha"
+    },
+    {
+        "Produto_Original": "PEIXE PIRANHA>  IN NATURA, EVISCERADA (O)",
+        "Produto_Global": "Peixe Piranha"
+    },
+    {
+        "Produto_Original": "PEIXE>  (Classificação sem características)",
+        "Produto_Global": "Pescado Diverso"
+    },
+    {
+        "Produto_Original": "PEPINO>  (Classificação sem características)",
+        "Produto_Global": "Pepino"
+    },
+    {
+        "Produto_Original": "PEPINO>  COMUM",
+        "Produto_Global": "Pepino"
+    },
+    {
+        "Produto_Original": "PEPINO>  ORGÂNICO(A)",
+        "Produto_Global": "Pepino"
+    },
+    {
+        "Produto_Original": "PEPINO>  ORGÂNICO(A), COMUM",
+        "Produto_Global": "Pepino"
+    },
+    {
+        "Produto_Original": "PESCADA>  (Classificação sem características)",
+        "Produto_Global": "Peixe Pescada Amarela"
+    },
+    {
+        "Produto_Original": "PESCADA>  EM POSTAS, AMARELA",
+        "Produto_Global": "Peixe Pescada Amarela"
+    },
+    {
+        "Produto_Original": "PESCADA>  EVISCERADA, FRESCA, AMARELA",
+        "Produto_Global": "Peixe Pescada Amarela"
+    },
+    {
+        "Produto_Original": "PESCADA>  IN NATURA, EVISCERADA (O)",
+        "Produto_Global": "Peixe Pescada Amarela"
+    },
+    {
+        "Produto_Original": "PESCADINHA>  (Classificação sem características)",
+        "Produto_Global": "Peixe Pescadinha"
+    },
+    {
+        "Produto_Original": "PESCADINHA>  COZIDO(A)",
+        "Produto_Global": "Peixe Pescadinha"
+    },
+    {
+        "Produto_Original": "PESCADINHA>  EVISCERADA (O)",
+        "Produto_Global": "Peixe Pescadinha"
+    },
+    {
+        "Produto_Original": "PIAU>  IN NATURA, EVISCERADA (O)",
+        "Produto_Global": "Peixe Piau"
+    },
+    {
+        "Produto_Original": "PIMENTA>  VERDE",
+        "Produto_Global": "Pimenta"
+    },
+    {
+        "Produto_Original": "PIMENTAO>  (Classificação sem características)",
+        "Produto_Global": "Pimentão Verde"
+    },
+    {
+        "Produto_Original": "PIMENTÃO>  (Classificação sem características)",
+        "Produto_Global": "Pimentão Verde"
+    },
+    {
+        "Produto_Original": "PIMENTÃO>  ECOLÓGICO",
+        "Produto_Global": "Pimentão Verde"
+    },
+    {
+        "Produto_Original": "PIMENTÃO>  ORGÂNICO(A)",
+        "Produto_Global": "Pimentão Verde"
+    },
+    {
+        "Produto_Original": "PIMENTÃO>  VERDE",
+        "Produto_Global": "Pimentão Verde"
+    },
+    {
+        "Produto_Original": "PINHA>  (Classificação sem características)",
+        "Produto_Global": "Pinha / Fruta-do-Conde"
+    },
+    {
+        "Produto_Original": "POLPA DE ABACAXI>  (Classificação sem características)",
+        "Produto_Global": "Polpa de Abacaxi"
+    },
+    {
+        "Produto_Original": "POLPA DE ACEROLA>  (Classificação sem características)",
+        "Produto_Global": "Polpa de Acerola"
+    },
+    {
+        "Produto_Original": "POLPA DE ACEROLA>  ORGÂNICO(A)",
+        "Produto_Global": "Polpa de Acerola"
+    },
+    {
+        "Produto_Original": "POLPA DE CACAU>  (Classificação sem características)",
+        "Produto_Global": "Polpa de Cacau"
+    },
+    {
+        "Produto_Original": "POLPA DE CAJÁ>  (Classificação sem características)",
+        "Produto_Global": "Polpa de Cajá"
+    },
+    {
+        "Produto_Original": "POLPA DE CAJÚ>  (Classificação sem características)",
+        "Produto_Global": "Polpa de Cajú"
+    },
+    {
+        "Produto_Original": "POLPA DE CAJÚ>  ORGÂNICO(A)",
+        "Produto_Global": "Polpa de Cajú"
+    },
+    {
+        "Produto_Original": "POLPA DE CUPUAÇU>  (Classificação sem características)",
+        "Produto_Global": "Polpa de Cupuaçu"
+    },
+    {
+        "Produto_Original": "POLPA DE FRUTAS>  (Classificação sem características)",
+        "Produto_Global": "Polpa de Frutas"
+    },
+    {
+        "Produto_Original": "POLPA DE GENIPAPO>  (Classificação sem características)",
+        "Produto_Global": "Polpa de Genipapo"
+    },
+    {
+        "Produto_Original": "POLPA DE GOIABA SERRANA>  (Classificação sem características)",
+        "Produto_Global": "Polpa de Goiaba Serrana"
+    },
+    {
+        "Produto_Original": "POLPA DE GOIABA>  (Classificação sem características)",
+        "Produto_Global": "Polpa de Goiaba"
+    },
+    {
+        "Produto_Original": "POLPA DE GOIABA>  ORGÂNICO(A)",
+        "Produto_Global": "Polpa de Goiaba"
+    },
+    {
+        "Produto_Original": "POLPA DE GRAVIOLA>  (Classificação sem características)",
+        "Produto_Global": "Polpa de Graviola"
+    },
+    {
+        "Produto_Original": "POLPA DE MANGA>  (Classificação sem características)",
+        "Produto_Global": "Polpa de Manga"
+    },
+    {
+        "Produto_Original": "POLPA DE MANGA>  ORGÂNICO(A)",
+        "Produto_Global": "Polpa de Manga"
+    },
+    {
+        "Produto_Original": "POLPA DE MARACUJÁ>  (Classificação sem características)",
+        "Produto_Global": "Polpa de Maracujá"
+    },
+    {
+        "Produto_Original": "POLPA DE MARACUJÁ>  ORGÂNICO(A)",
+        "Produto_Global": "Polpa de Maracujá"
+    },
+    {
+        "Produto_Original": "POLPA DE MORANGO>  (Classificação sem características)",
+        "Produto_Global": "Polpa de Morango"
+    },
+    {
+        "Produto_Original": "POLPA DE SERIGUELA>  (Classificação sem características)",
+        "Produto_Global": "Polpa de Seriguela"
+    },
+    {
+        "Produto_Original": "POLPA DE TAMARINDO>  (Classificação sem características)",
+        "Produto_Global": "Polpa de Tamarindo"
+    },
+    {
+        "Produto_Original": "POLPA DE UMBU>  (Classificação sem características)",
+        "Produto_Global": "Polpa de Umbu"
+    },
+    {
+        "Produto_Original": "POLPA DE UMBU>  ORGÂNICO(A)",
+        "Produto_Global": "Polpa de Umbu"
+    },
+    {
+        "Produto_Original": "POLPA DE UMBU-CAJÁ>  (Classificação sem características)",
+        "Produto_Global": "Polpa de Umbu-Cajá"
+    },
+    {
+        "Produto_Original": "POLPA DE UVA>  (Classificação sem características)",
+        "Produto_Global": "Polpa de Uva"
+    },
+    {
+        "Produto_Original": "POLVILHO>  (Classificação sem características)",
+        "Produto_Global": "Polvilho"
+    },
+    {
+        "Produto_Original": "POLVILHO>  AZEDO",
+        "Produto_Global": "Polvilho Azedo"
+    },
+    {
+        "Produto_Original": "POLVILHO>  DOCE",
+        "Produto_Global": "Polvilho Doce"
+    },
+    {
+        "Produto_Original": "PREPARADO LÍQUIDO PARA REFRESCO>  DE MARACUJÁ DA CAATINGA",
+        "Produto_Global": "Refresco de Maracujá da Caatinga"
+    },
+    {
+        "Produto_Original": "PREPARADO LÍQUIDO PARA REFRESCO>  DE UMBU",
+        "Produto_Global": "Refresco de Umbu"
+    },
+    {
+        "Produto_Original": "PUPUNHA>  (Classificação sem características)",
+        "Produto_Global": "Pupunha"
+    },
+    {
+        "Produto_Original": "QUIABO>  (Classificação sem características)",
+        "Produto_Global": "Quiabo"
+    },
+    {
+        "Produto_Original": "QUIABO>  ORGÂNICO(A)",
+        "Produto_Global": "Quiabo"
+    },
+    {
+        "Produto_Original": "RABANETE>  (Classificação sem características)",
+        "Produto_Global": "Rabanete"
+    },
+    {
+        "Produto_Original": "RAIZ DE MANDIOCA>  (Classificação sem características)",
+        "Produto_Global": "Mandioca / Aipim (Mesa)"
+    },
+    {
+        "Produto_Original": "RAIZ DE MANDIOCA>  A VÁCUO, SEM CASCA",
+        "Produto_Global": "Mandioca / Aipim (Mesa)"
+    },
+    {
+        "Produto_Original": "RAIZ DE MANDIOCA>  AIPIM",
+        "Produto_Global": "Mandioca / Aipim (Mesa)"
+    },
+    {
+        "Produto_Original": "RAIZ DE MANDIOCA>  AIPIM COM CASCA",
+        "Produto_Global": "Mandioca / Aipim (Mesa)"
+    },
+    {
+        "Produto_Original": "RAIZ DE MANDIOCA>  AIPIM SEM CASCA",
+        "Produto_Global": "Mandioca / Aipim (Mesa)"
+    },
+    {
+        "Produto_Original": "RAIZ DE MANDIOCA>  COM CASCA",
+        "Produto_Global": "Mandioca / Aipim (Mesa)"
+    },
+    {
+        "Produto_Original": "RAIZ DE MANDIOCA>  DESCASCADA A VÁCUO",
+        "Produto_Global": "Mandioca / Aipim (Mesa)"
+    },
+    {
+        "Produto_Original": "RAIZ DE MANDIOCA>  IN NATURA COM CASCA",
+        "Produto_Global": "Mandioca / Aipim (Mesa)"
+    },
+    {
+        "Produto_Original": "RAIZ DE MANDIOCA>  ORGÂNICO(A)",
+        "Produto_Global": "Mandioca / Aipim (Mesa)"
+    },
+    {
+        "Produto_Original": "RAIZ DE MANDIOCA>  ORGÂNICO(A), COM CASCA",
+        "Produto_Global": "Mandioca / Aipim (Mesa)"
+    },
+    {
+        "Produto_Original": "RAIZ DE MANDIOCA>  RAIZ",
+        "Produto_Global": "Mandioca / Aipim (Mesa)"
+    },
+    {
+        "Produto_Original": "RAIZ DE MANDIOCA>  SEM CASCA",
+        "Produto_Global": "Mandioca / Aipim (Mesa)"
+    },
+    {
+        "Produto_Original": "RAPADURA>  (Classificação sem características)",
+        "Produto_Global": "Rapadura de Cana"
+    },
+    {
+        "Produto_Original": "RAPADURA>  COMUM",
+        "Produto_Global": "Rapadura de Cana"
+    },
+    {
+        "Produto_Original": "RAPADURA>  DE CANA",
+        "Produto_Global": "Rapadura de Cana"
+    },
+    {
+        "Produto_Original": "RAPADURA>  EM TABLETE",
+        "Produto_Global": "Rapadura de Cana"
+    },
+    {
+        "Produto_Original": "RAPADURINHA>  (Classificação sem características)",
+        "Produto_Global": "Rapadura de Cana"
+    },
+    {
+        "Produto_Original": "REPOLHO>  (Classificação sem características)",
+        "Produto_Global": "Repolho Verde / Branco"
+    },
+    {
+        "Produto_Original": "REPOLHO>  BRANCO (A)",
+        "Produto_Global": "Repolho Verde / Branco"
+    },
+    {
+        "Produto_Original": "REPOLHO>  ORGÂNICO(A)",
+        "Produto_Global": "Repolho Verde / Branco"
+    },
+    {
+        "Produto_Original": "REPOLHO>  VERDE",
+        "Produto_Global": "Repolho Verde / Branco"
+    },
+    {
+        "Produto_Original": "RÚCULA>  (Classificação sem características)",
+        "Produto_Global": "Rúcula"
+    },
+    {
+        "Produto_Original": "RÚCULA>  MOLHO",
+        "Produto_Global": "Rúcula"
+    },
+    {
+        "Produto_Original": "RÚCULA>  ORGÂNICO(A)",
+        "Produto_Global": "Rúcula"
+    },
+    {
+        "Produto_Original": "SALSA>  (Classificação sem características)",
+        "Produto_Global": "Salsa"
+    },
+    {
+        "Produto_Original": "SALSA>  ORGÂNICO(A)",
+        "Produto_Global": "Salsa"
+    },
+    {
+        "Produto_Original": "SARDA>  CONGELADO",
+        "Produto_Global": "Peixe Sarda"
+    },
+    {
+        "Produto_Original": "SARDINHA>  CASEIRA",
+        "Produto_Global": "Sardinha"
+    },
+    {
+        "Produto_Original": "SARDINHA>  FILÉ",
+        "Produto_Global": "Sardinha"
+    },
+    {
+        "Produto_Original": "SEMENTE DE FEIJÃO>  CRIOULO",
+        "Produto_Global": "Semente Crioula de Feijão"
+    },
+    {
+        "Produto_Original": "SEMENTE DE MILHO>  CRIOULO VARIEDADE",
+        "Produto_Global": "Semente Crioula de Milho"
+    },
+    {
+        "Produto_Original": "SEMENTE DE MILHO>  SEMENTE CRIOULA",
+        "Produto_Global": "Semente Crioula de Milho"
+    },
+    {
+        "Produto_Original": "SEQUILHOS>  (Classificação sem características)",
+        "Produto_Global": "Sequilho Tradicional"
+    },
+    {
+        "Produto_Original": "SEQUILHOS>  DE FUBÁ DE MILHO",
+        "Produto_Global": "Sequilho de Fubá de Milho"
+    },
+    {
+        "Produto_Original": "SERIGUELA>  (Classificação sem características)",
+        "Produto_Global": "Seriguela"
+    },
+    {
+        "Produto_Original": "SUCO>  CONCENTRADO, DE UMBU",
+        "Produto_Global": "Suco de Umbu"
+    },
+    {
+        "Produto_Original": "SUCO>  DE ACEROLA",
+        "Produto_Global": "Suco de Acerola"
+    },
+    {
+        "Produto_Original": "SUCO>  DE AIPIM COM ACEROLA",
+        "Produto_Global": "Suco de Aipim com Acerola"
+    },
+    {
+        "Produto_Original": "SUCO>  DE AIPIM COM CAJU",
+        "Produto_Global": "Suco de Aipim com Caju"
+    },
+    {
+        "Produto_Original": "SUCO>  DE AIPIM COM GOIABA",
+        "Produto_Global": "Suco de Aipim com Goiaba"
+    },
+    {
+        "Produto_Original": "SUCO>  DE AIPIM COM MANGA",
+        "Produto_Global": "Suco de Aipim com Manga"
+    },
+    {
+        "Produto_Original": "SUCO>  DE AIPIM COM MARACUJÁ",
+        "Produto_Global": "Suco de Aipim com Maracujá"
+    },
+    {
+        "Produto_Original": "SUCO>  DE AIPIM COM UMBU",
+        "Produto_Global": "Suco de Aipim com Umbu"
+    },
+    {
+        "Produto_Original": "SUCO>  DE MANGA",
+        "Produto_Global": "Suco de Manga"
+    },
+    {
+        "Produto_Original": "SUCO>  DE UMBU",
+        "Produto_Global": "Suco de Umbu"
+    },
+    {
+        "Produto_Original": "SUCO>  ORGÂNICO(A), DE UMBU",
+        "Produto_Global": "Suco de Umbu"
+    },
+    {
+        "Produto_Original": "TAINHA>  EM POSTAS",
+        "Produto_Global": "Peixe Tainha"
+    },
+    {
+        "Produto_Original": "TAMBAQUI>  (Classificação sem características)",
+        "Produto_Global": "Peixe Tambaqui"
+    },
+    {
+        "Produto_Original": "TAMBAQUI>  CONGELADO, LIMPO S/ VÍCERAS",
+        "Produto_Global": "Peixe Tambaqui"
+    },
+    {
+        "Produto_Original": "TAMBAQUI>  EVISCERADO",
+        "Produto_Global": "Peixe Tambaqui"
+    },
+    {
+        "Produto_Original": "TANGERINA>  (Classificação sem características)",
+        "Produto_Global": "Tangerina"
+    },
+    {
+        "Produto_Original": "TANGERINA>  MURCOTT",
+        "Produto_Global": "Tangerina Murcott"
+    },
+    {
+        "Produto_Original": "TANGERINA>  ORGÂNICO(A)",
+        "Produto_Global": "Tangerina"
+    },
+    {
+        "Produto_Original": "TANGERINA>  ORGÂNICO(A), PONKAN",
+        "Produto_Global": "Tangerina Ponkan"
+    },
+    {
+        "Produto_Original": "TANGERINA>  PONKAN",
+        "Produto_Global": "Tangerina Ponkan"
+    },
+    {
+        "Produto_Original": "TAPIOCA>  (Classificação sem características)",
+        "Produto_Global": "Goma / Fécula Hidratada de Tapioca"
+    },
+    {
+        "Produto_Original": "TAPIOCA>  COM FÉCULA DE MANDIOCA",
+        "Produto_Global": "Goma / Fécula Hidratada de Tapioca"
+    },
+    {
+        "Produto_Original": "TAPIOCA>  ORGÂNICO(A)",
+        "Produto_Global": "Goma / Fécula Hidratada de Tapioca"
+    },
+    {
+        "Produto_Original": "TILÁPIA>  CONGELADA, EM POSTAS",
+        "Produto_Global": "Peixe Tilápia"
+    },
+    {
+        "Produto_Original": "TILÁPIA>  EVISCERADA (O)",
+        "Produto_Global": "Peixe Tilápia"
+    },
+    {
+        "Produto_Original": "TILÁPIA>  FRESCO(A), EVISCERADA (O)",
+        "Produto_Global": "Peixe Tilápia"
+    },
+    {
+        "Produto_Original": "TILÁPIA>  IN NATURA",
+        "Produto_Global": "Peixe Tilápia"
+    },
+    {
+        "Produto_Original": "TOMATE>  (Classificação sem características)",
+        "Produto_Global": "Tomate"
+    },
+    {
+        "Produto_Original": "TOMATE>  CEREJA",
+        "Produto_Global": "Tomate Cereja"
+    },
+    {
+        "Produto_Original": "TOMATE>  DE PRIMEIRA",
+        "Produto_Global": "Tomate"
+    },
+    {
+        "Produto_Original": "TOMATE>  EXTRA A",
+        "Produto_Global": "Tomate"
+    },
+    {
+        "Produto_Original": "TOMATE>  ORGÂNICO(A)",
+        "Produto_Global": "Tomate"
+    },
+    {
+        "Produto_Original": "TOMATE>  RASTEIRO",
+        "Produto_Global": "Tomate"
+    },
+    {
+        "Produto_Original": "TOMATE>  SALADA",
+        "Produto_Global": "Tomate"
+    },
+    {
+        "Produto_Original": "TOMATE>  SANTA CRUZ",
+        "Produto_Global": "Tomate"
+    },
+    {
+        "Produto_Original": "TRAÍRA>  EVISCERADA (O)",
+        "Produto_Global": "Peixe Traíra"
+    },
+    {
+        "Produto_Original": "TUCUNARÉ>  (Classificação sem características)",
+        "Produto_Global": "Peixe Tucunaré"
+    },
+    {
+        "Produto_Original": "TUCUNARÉ>  COZIDO(A)",
+        "Produto_Global": "Peixe Tucunaré"
+    },
+    {
+        "Produto_Original": "TUCUNARÉ>  EVISCERADO",
+        "Produto_Global": "Peixe Tucunaré"
+    },
+    {
+        "Produto_Original": "UMBU>  (Classificação sem características)",
+        "Produto_Global": "Umbu"
+    },
+    {
+        "Produto_Original": "UMBU>  FRUTO",
+        "Produto_Global": "Umbu"
+    },
+    {
+        "Produto_Original": "VAGEM>  (Classificação sem características)",
+        "Produto_Global": "Vagem"
+    },
+    {
+        "Produto_Original": "0",
+        "Produto_Global": "OUTROS / NÃO ESPECIFICADO"
+    }
+]
